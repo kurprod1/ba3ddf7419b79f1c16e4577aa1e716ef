@@ -1,0 +1,68 @@
+﻿Function,Description
+abs(),Mengembalikan nilai absolut dari angka
+all(),Mengembalikan Benar jika semua item dalam suatu objek iterable benar
+any(),Mengembalikan Benar jika item dalam suatu objek iterable benar
+ascii(),Mengembalikan versi dibaca dari sebuah objek. Menggantikan karakter tidak-ascii dengan karakter escape
+bin(),Mengembalikan versi biner dari angka
+bool(),Mengembalikan nilai boolean dari objek tertentu
+bytearray(),Mengembalikan array byte
+bytes(),Pengembalian benda byte
+callable(),"Pengembalian Benar jika objek tertentu adalah callable, jika False"
+chr(),Mengembalikan karakter dari kode Unicode yang ditentukan.
+classmethod(),Mengubah metode ke metode kelas
+compile(),"Mengembalikan sumber ditentukan sebagai objek, siap untuk dieksekusi"
+complex(),Mengembalikan bilangan kompleks
+delattr(),Menghapus atribut tertentu (properti atau metode) dari objek tertentu
+dict(),Mengembalikan kamus (Array)
+dir(),Mengembalikan daftar properti dan metode obyek tertentu ini
+divmod(),Mengembalikan hasil bagi dan sisanya ketika argument1 dibagi oleh argument2
+enumerate(),Membawa koleksi (misalnya tupel) dan kembali sebagai objek Menghitung
+eval(),Mengevaluasi dan mengeksekusi ekspresi
+exec(),Mengeksekusi kode tertentu (atau objek)
+filter(),Gunakan fungsi filter untuk mengecualikan item dalam suatu objek iterable
+float(),Mengembalikan angka floating point
+format(),Format nilai tertentu
+frozenset(),Mengembalikan sebuah objek frozenset
+getattr(),Mengembalikan nilai atribut tertentu (properti atau metode)
+globals(),Mengembalikan tabel simbol global saat ini sebagai kamus
+hasattr(),Pengembalian Benar jika objek tertentu memiliki atribut tertentu (properti / metode)
+hash(),Mengembalikan nilai hash dari objek tertentu
+help(),Mengeksekusi built-in sistem bantuan
+hex(),Mengkonversi angka menjadi nilai heksadesimal
+id(),Mengembalikan id dari sebuah objek
+input(),input pengguna memungkinkan
+int(),Mengembalikan jumlah integer
+isinstance(),Pengembalian Benar jika objek tertentu merupakan contoh dari objek tertentu
+issubclass(),Pengembalian Benar jika kelas tertentu adalah subclass dari objek tertentu
+iter(),Mengembalikan sebuah objek iterator
+len(),Mengembalikan panjang dari sebuah objek
+list(),Mengembalikan daftar
+locals(),Pengembalian kamus terbaru dari tabel simbol lokal saat ini
+map(),Pengembalian yang ditentukan iterator dengan fungsi tertentu diterapkan untuk setiap item
+max(),Mengembalikan item yang terbesar dalam iterable
+memoryview(),Mengembalikan tampilan memori objek
+min(),Mengembalikan item yang terkecil dalam iterable
+next(),Mengembalikan item berikutnya dalam iterable
+object(),Mengembalikan sebuah objek baru
+oct(),Mengkonversi angka menjadi oktal
+open(),Membuka file dan kembali sebuah file objek
+ord(),Mengkonversi integer yang mewakili Unicode karakter tertentu
+pow(),Mengembalikan nilai x dengan kekuatan y
+print(),Cetakan ke perangkat output standar
+property(),"Gets, set, menghapus properti"
+range(),"Mengembalikan urutan angka, mulai dari 0 dan bertahap oleh 1 (default)"
+repr(),Mengembalikan versi dibaca dari sebuah objek
+reversed(),Mengembalikan iterator terbalik
+round(),Membulatkan angka
+set(),Mengembalikan sebuah objek set baru
+setattr(),Menetapkan atribut (properti / metode) dari sebuah objek
+slice(),Mengembalikan sebuah objek slice
+sorted(),Mengembalikan daftar diurutkan
+@staticmethod(),Mengubah metode ke metode statis
+str(),Mengembalikan objek string
+sum(),Merangkum item dari iterator
+super(),Mengembalikan sebuah objek yang mewakili kelas induk
+tuple(),Pengembalian tupel
+type(),Mengembalikan jenis objek
+vars(),Mengembalikan properti __dict__ dari sebuah objek
+zip(),"Mengembalikan iterator, dari dua atau lebih iterator"
