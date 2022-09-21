@@ -49,7 +49,7 @@
   * [Introduction](8DataPipelineAutomation/2.md)
   * [Apache Airflow Introduction](8DataPipelineAutomation/3.md)
   * [Deep Dive into Apache Airflow](8DataPipelineAutomation/4.md)
-  * [Project](8DataPipelineAutomation/Project%20%3A%20Spark%2C%20HDFS%2C%20%26%20Airflow%20Integration.md)
+  * [Project](8DataPipelineAutomation/Project2.md)
 
 * [Data Crawling](9DataCrawling/README.md)
   * [Project](1)
