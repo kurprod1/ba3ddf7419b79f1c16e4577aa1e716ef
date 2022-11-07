@@ -24,8 +24,9 @@
   * [Decision Making](/3Python/5.md)
   * [Loops](3Python/6.md)
   * [Error Handling and Exception](3Python/7.md)
-  * [Funnction](3Python/8.md)
+  * [Function](3Python/8.md)
   * [Library](3Python/9.md)
+  * [JSON](3Python/10.md)
 
 * [Python Integration with  DB](4Python%20DB/README.md)
   * [Python with PostgreSQL](4Python%20DB/1.md)
