@@ -28,8 +28,8 @@
   * [Library](3Python/9.md)
   * [JSON](3Python/10.md)
 
-* [Python Integration with  DB](4Python%20DB/README.md)
-  * [Python with PostgreSQL](4Python%20DB/1.md)
+* [Python Integration with  DB](4Python DB/README.md)
+  * [Python with PostgreSQL](4Python DB/1.md)
 
 * [ETL Introduction](5ETL/README.md)
   * [ETL Introduction](5ETL/1.md)
