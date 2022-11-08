@@ -46,11 +46,11 @@
   * [Data Mart Introduction](7DataMart/1.md)
 
 * [Data Pipeline Automation](8DataPipelineAutomation/README.md)
+  * [Project](8DataPipelineAutomation/Project2.md)
   * [Project Pipelinne Automation](8DataPipelineAutomation/1.md)
   * [Introduction](8DataPipelineAutomation/2.md)
   * [Apache Airflow Introduction](8DataPipelineAutomation/3.md)
   * [Deep Dive into Apache Airflow](8DataPipelineAutomation/4.md)
-  * [Project](8DataPipelineAutomation/Project2.md)
 
 * [Data Crawling](9DataCrawling/README.md)
   * [Project](1)

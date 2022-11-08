@@ -17,8 +17,6 @@ Untuk mengerjakan project berikut, kalian akan diberikan beberapa requirement se
   - Remove duplicate data (if any)
   
   - Create aggregate data with category table
-  
-  - 
 
 - Karena akan banyak proses yang dilakukan, untuk memperingan kinerja server, kalian diminta untuk menjadwalkan proses ETL diatas menggunakan Airflow, yang mana dilakukan setting setiap 15 menit sekali akan melakukan 1 task.
 
