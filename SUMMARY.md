@@ -53,7 +53,7 @@
   * [Deep Dive into Apache Airflow](8DataPipelineAutomation/4.md)
 
 * [Data Crawling](9DataCrawling/README.md)
-  * [Project](1)
+  <!-- * [Project](1) -->
   * [Introduction](9DataCrawling/2.md)
   * [Scraping & Crawling Tools](9DataCrawling/3.md)
 
