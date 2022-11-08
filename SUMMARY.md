@@ -33,12 +33,14 @@
 
 * [ETL Introduction](5ETL/README.md)
   * [ETL Introduction](5ETL/1.md)
+  * [Labs](5ETL/lab.md)
   * [ETL using Apache Spark](5ETL/2.md)
   * [Study case: Simple ETL with Pyspark](5ETL/3.md)
   * [Spark Operations](5ETL/4.md)
 
 * [Data Warehouse](6DataWarehouse/README.md)
   * [Introduction](6DataWarehouse/1.md)
+  * [Labs](6DataWarehouse/lab.md)
   * [Apache Hive Introduction](6DataWarehouse/2.md)
   * [Deep Dive into Apache Hive](6DataWarehouse/3.md)
 
@@ -58,8 +60,8 @@
   * [Scraping & Crawling Tools](9DataCrawling/3.md)
 
 * [Data Streaming Processing](10DataStreamingProcessing/README.md)
-  
   * [Introduction](10DataStreamingProcessing/1.md)
+  * [Labs](10DataStreamingProcessing/lab.md)
   * [Data Streaming Tools](10DataStreamingProcessing/2.md)
 
 * [Data Lake](11DataLake/README.md)
