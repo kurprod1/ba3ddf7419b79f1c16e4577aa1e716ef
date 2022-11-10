@@ -1,5 +1,7 @@
 # Summary
 
+* [Requirement App](Requirement/requirement.md)
+
 * [Introduction](1Intro/README.md)
   
   * [Welcome to Sekolah Big Data](1Intro/1.md)
@@ -50,7 +52,7 @@
 
 * [Data Pipeline Automation](8DataPipelineAutomation/README.md)
   * [Project](8DataPipelineAutomation/Project2.md)
-  * [Project Pipelinne Automation](8DataPipelineAutomation/1.md)
+  * [Project Pipeline Automation](8DataPipelineAutomation/1.md)
   * [Introduction](8DataPipelineAutomation/2.md)
   * [Apache Airflow Introduction](8DataPipelineAutomation/3.md)
   * [Deep Dive into Apache Airflow](8DataPipelineAutomation/4.md)
