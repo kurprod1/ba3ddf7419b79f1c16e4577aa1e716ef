@@ -4,7 +4,7 @@
 
 Download installer di [Download PostgreSQL](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) lalu pilih Windows.
 
-![](images/2022-11-10-15-35-15-image.png)
+![](2022-11-10-15-35-15-image.png)
 
 Ikuti instalasi sampai selesai.
 
@@ -12,7 +12,7 @@ Ikuti instalasi sampai selesai.
 
 Download installer di [Download PostgreSQL](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) lalu pilih Windows.
 
-![](images/2022-11-10-15-36-33-image.png)
+![](2022-11-10-15-36-33-image.png)
 
 Ikuti instalasi sampai selesai.
 
@@ -20,7 +20,7 @@ Ikuti instalasi sampai selesai.
 
 Pergi ke [PostgreSQL: Downloads](https://www.postgresql.org/download/) untuk memilih Distro OS.
 
-![](images/2022-11-10-15-38-31-image.png)
+![](2022-11-10-15-38-31-image.png)
 
 Contoh Ubuntu, eksekusi perintah berikut.
 
@@ -40,7 +40,7 @@ sudo apt-get -y install postgresql
 
 Pergi ke [Python Release Python 3.11.0 | Python.org](https://www.python.org/downloads/release/python-3110/) lalu pilih Windows Installer.
 
-![](images/2022-11-10-16-06-16-image.png)
+![](2022-11-10-16-06-16-image.png)
 
 Ikuti instalasi sampai selesai.
 
@@ -48,7 +48,7 @@ Ikuti instalasi sampai selesai.
 
 Pergi ke [Python Release Python 3.11.0 | Python.org](https://www.python.org/downloads/release/python-3110/) lalu pilih Windows Installer.
 
-![](images/2022-11-10-16-06-16-image.png)
+![](2022-11-10-16-06-16-image.png)
 
 Ikuti instalasi sampai selesai.
 
