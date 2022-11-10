@@ -11,6 +11,7 @@
 
 * [SQL Introduction](2SQL/README.md)
   * [Project for This Section](2SQL/1.md)
+  * [Labs](2SQL/lab.md)
   * [How to Learn SQL](2SQL/2.md)
   * [Deep Dive into SQL](2SQL/3.md)
 
