@@ -10,7 +10,7 @@
   * [5-min-Read: Big Data Architecture](1Intro/6.md)
 
 * [SQL Introduction](2SQL/README.md)
-  
+  * [Labs](2SQL/lab.md)
   * [Project for This Section](2SQL/1.md)
   * [How to Learn SQL](2SQL/2.md)
   * [Deep Dive into SQL](2SQL/3.md)
@@ -19,6 +19,7 @@
   
   * [Project for This Section](3Python/1.md)
   * [Python Introduction](/3Python/2.md)
+  * 
   * [Get Started with Python](/3Python/3.md)
   * [Data Types in Python](/3Python/4.md)
   * [Decision Making](/3Python/5.md)
